@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the School of Finance, Economics and Government of EAFIT University, where I coordinate the Seminar on Politics and Development and DataPOL research group. Before moving to Colombia, I was a Postdoctoral Research Associate at the Bobst Center for Peace and Justice of Princeton University. I received my PhD in 2022 from the European University Institute. My research focuses on the legacy of violent experiences and how and why it changes. Please find my CV [here](https://www.dropbox.com/scl/fi/p44dfo1097qxmnp2qs7rm/202409_cv.pdf?rlkey=ckc95vijofz17wq7rdibpn7yc&st=q3d14ajc&dl=0).
+I am an assistant professor in the School of Finance, Economics and Government of EAFIT University, where I coordinate the Seminar on Politics and Development and DataPOL research group. Before moving to Colombia, I was a Postdoctoral Research Associate at the Bobst Center for Peace and Justice of Princeton University. I received my PhD in 2022 from the European University Institute. Please find my CV [here](https://www.dropbox.com/scl/fi/p44dfo1097qxmnp2qs7rm/202409_cv.pdf?rlkey=ckc95vijofz17wq7rdibpn7yc&st=q3d14ajc&dl=0).
+
+My research focuses on the legacy of violent experiences (and periods) and how and why it changes. 
 
 
 Publications
@@ -16,7 +18,7 @@ Publications
 - [Social norm change, political symbols, and expression of stigmatized preferences](https://www.journals.uchicago.edu/doi/abs/10.1086/726951?journalCode=jop) (*With Elias Dinas and Vicente Valentim*). Journal of Politics. 
 
 
-Getting started
+Working papers
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
