@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the School of Finance, Economics and Government of EAFIT University, where I coordinate the Seminar on Politics and Development and the DataPOL research group. Before moving to Colombia, I was a Postdoctoral Research Associate at the Bobst Center for Peace and Justice of Princeton University. I received my PhD in 2022 from the European University Institute. Please find my CV [here](https://www.dropbox.com/scl/fi/p44dfo1097qxmnp2qs7rm/202409_cv.pdf?rlkey=ckc95vijofz17wq7rdibpn7yc&st=q3d14ajc&dl=0).
+I am an assistant professor in the School of Finance, Economics and Government of EAFIT University, where I coordinate the Seminar on Politics and Development and the DataPOL research group. My research mostly focuses on the legacy of violent experiences (and periods) and how and why it changes. 
 
 
-My research mostly focuses on the legacy of violent experiences (and periods) and how and why it changes. 
+Before moving to Colombia, I was a postdoctoral research associate at the [Bobst Center for Peace and Justice](https://bobst.princeton.edu/) of Princeton University. I received my PhD in 2022 from the European University Institute. You can find my CV [here](https://www.dropbox.com/scl/fi/p44dfo1097qxmnp2qs7rm/202409_cv.pdf?rlkey=ckc95vijofz17wq7rdibpn7yc&st=q3d14ajc&dl=0). Thanks for your visit!
+
+
 
 
 Publications
@@ -43,7 +45,7 @@ Working papers
 
 Selected work-in-progress
 ------
-- Elites, identities, and conflict mobilization in diverse societies (*with Giacomo Lemoli*). Project funded by the Identities and Ideologies Project of New York University, the Bobst Center, EAFIT University, and BBVA.
+- Elites, identities, and conflict mobilization in diverse societies (*with Giacomo Lemoli*). Project funded by the Identities and Ideologies Project of New York University, the Bobst Center, EAFIT University, and BBVA. Presented in the PolSci Seminar Series of NYUAD (Abu Dhabi). 
 
-- Seats of hope: special peace districts on trust and political engagement in postwar democracies? (*with Joan Barceló and Mauricio Vela Barón*). Draft available upon request.
+- Seats of hope: special peace districts on trust and political engagement in postwar democracies? (*with Joan Barceló and Mauricio Vela Barón*). Presented in LAPSS Annual Meeting (Bogotá), the MoPED Workshop (Berlin), and the Conflict Research Society annual meeting (Edinburgh). 
 
