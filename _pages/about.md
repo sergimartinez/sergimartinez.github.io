@@ -44,7 +44,8 @@ Working papers
 
 
 Selected work-in-progress
-------
+======
+
 - Elites, identities, and conflict mobilization in diverse societies (*with Giacomo Lemoli*). Project funded by the Identities and Ideologies Project of New York University, the Bobst Center, EAFIT University, and BBVA. Presented in the PolSci Seminar Series of NYUAD (Abu Dhabi). 
 
 - Seats of hope: special peace districts on trust and political engagement in postwar democracies? (*with Joan Barceló and Mauricio Vela Barón*). Presented in LAPSS Annual Meeting (Bogotá), the MoPED Workshop (Berlin), and the Conflict Research Society annual meeting (Edinburgh). 
