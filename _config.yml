@@ -21,7 +21,7 @@ repository               : "sergimartinez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sancocho.png"
+  avatar           : "profile.png"
   name             : "Sergi Martínez"
   pronouns         : # example: "she/her"  
   bio              : "Assistant professor and researcher in political and social sciences"
