@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the School of Finance, Economics and Government of EAFIT University, where I coordinate the Seminar on Politics and Development and the DataPOL research group. My research mostly focuses on the legacy of violent experiences (and periods) and how and why it changes. 
+I am an assistant professor in the School of Finance, Economics and Government of EAFIT University, where I coordinate the Seminar on Politics and Development and the DataPOL research group. My research mostly focuses on the legacy of violent experiences (and periods) and how and why it changes.
 
 
 Before moving to Colombia, I was a postdoctoral research associate at the [Bobst Center for Peace and Justice](https://bobst.princeton.edu/) of Princeton University. I received my PhD in 2022 from the European University Institute. You can find my CV [here](https://www.dropbox.com/scl/fi/tadg4gorjnngzagutktgd/202505_cv.pdf?rlkey=lsg13ibf8b3pnfuir3gkos6pe&st=khbsjd1y&dl=0). Thanks for your visit!
