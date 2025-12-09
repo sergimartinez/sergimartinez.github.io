@@ -25,8 +25,8 @@ author:
   name             : "Sergi Martínez"
   pronouns         : # example: "she/her"  
   bio              : "Senior researcher"
-  location         : # "Zürich, Switzerland"
-  employer         : "IRDS, D-GESS, ETH Zürich"
+  location         : # Nothing
+  employer         : "IRDS, D-GESS, ETH Zurich"
   uri              : # URL
   email            : "sergi.martinez@gess.ethz.ch" 
 
