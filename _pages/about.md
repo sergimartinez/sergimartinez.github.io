@@ -28,13 +28,14 @@ Publications
 Working papers
 ======
 
-- Can Selective Repression Nurture Pro-Authoritarian Behaviors? Under review.
-
-- From Seats of Hope to Seeds of Distrust: Backlash against Representational Transitional Justice (*with Joan Barceló and Mauricio Vela Barón*). Under review. 
+- From Seats of Hope to Seeds of Distrust: Backlash against Representational Transitional Justice (*with Joan Barceló and Mauricio Vela Barón*). Revise and resubmit. 
 
 - Citizen-Weighted Expert-Coded Democratic Indices (*with Juan Andrés Álvarez, Ana Sofía Rivera, and Juanita Botero*). Under review. 
 
-- Memory policies on political socialization: Evidence from Spain (*with Nerea Gándara-Guerra and Ana Ruipérez Núnez*). Draft available upon request.
+- Memory policies on political socialization: Evidence from Spain (*with Nerea Gándara-Guerra and Ana Ruipérez Núnez*). Under review.
+
+- Can Selective Repression Nurture Pro-Authoritarian Behaviors? Draft available upon request.
+  
 
 Selected work-in-progress
 ======
