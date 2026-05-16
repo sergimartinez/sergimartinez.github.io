@@ -25,24 +25,14 @@ Publications
 - [The negative consequences of sports betting opportunities on human capital formation: Evidence from Spain](https://doi.org/10.1371/journal.pone.0258857) (*with Mar Espadafor*). PLoS one, 2021.
 
 
-Working papers
+Selected work in progress
 ======
 
-- From Seats of Hope to Seeds of Distrust: Backlash against Representational Transitional Justice (*with Joan Barceló and Mauricio Vela Barón*). Revise and resubmit. 
+- From Hope to Disillusionment: The Peace Seats and Democratic Integration in Postwar Colombia (*with Joan Barceló and Mauricio Vela Barón*). Revise and resubmit. 
 
-- Citizen-Weighted Expert-Coded Democratic Indices (*with Juan Andrés Álvarez, Ana Sofía Rivera, and Juanita Botero*). Under review. 
+- Running on Trust: Social Embeddedness and Local Electoral Mobilization in Colombia (*with Nerea Gándara-Guerra*). Draft available upon request. 
 
-- Memory policies on political socialization: Evidence from Spain (*with Nerea Gándara-Guerra and Ana Ruipérez Núnez*). Under review.
-
-- Can Selective Repression Nurture Pro-Authoritarian Behaviors? Draft available upon request.
-  
-
-Selected work-in-progress
-======
-
-- Elites, identities, and conflict mobilization in diverse societies (*with Giacomo Lemoli*). Project funded by the Identities and Ideologies Project of New York University, the Bobst Center, EAFIT University, and BBVA. Presented in the PolSci Seminar Series of NYUAD (Abu Dhabi).
-
-- Estamos Listas: Identity-Based Parties and Mobilization in Postwar Democracies (*with Nerea Gándara-Guerra*). Project funded by the [WarEffects ERC Project](https://www.wareffects.eu/people/global-fellows).
+- Networks and Dynamics of Violent Political Mobilization: Historical Evidence from Spain (*with Giacomo Lemoli*).
 
 CV
 ======
