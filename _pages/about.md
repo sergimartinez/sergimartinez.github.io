@@ -28,7 +28,7 @@ Publications
 Selected work in progress
 ======
 
-- From Hope to Disillusionment: The Peace Seats and Democratic Integration in Postwar Colombia (*with Joan Barceló and Mauricio Vela Barón*). Revise and resubmit. 
+- From Hope to Disillusionment: The Peace Seats and Democratic Integration in Postwar Colombia (*with Joan Barceló and Mauricio Vela Barón*). Conditionally accepted, American Political Science Review. 
 
 - Running on Trust: Social Embeddedness and Local Electoral Mobilization in Colombia (*with Nerea Gándara-Guerra*). Draft available upon request. 
 
