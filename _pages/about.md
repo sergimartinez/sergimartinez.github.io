@@ -37,4 +37,4 @@ Selected work in progress
 CV
 ======
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/tadg4gorjnngzagutktgd/202505_cv.pdf?rlkey=lsg13ibf8b3pnfuir3gkos6pe&st=khbsjd1y&dl=0)
+You can find my CV [here](https://www.dropbox.com/scl/fi/hwbktagn9gz69kwf21889/202607_CV.pdf?rlkey=7gdatt1dbh9pyokho14wgx2g7&st=mvdqnilb&dl=0)
